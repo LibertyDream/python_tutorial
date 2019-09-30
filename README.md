@@ -17,5 +17,6 @@
 | Python 进阶                                                  | Jupyter NoteBook                                             | HTML                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [1.枚举与闭包](https://nbviewer.jupyter.org/github/LibertyDream/python_tutorial/blob/master/advance/1.enum_closure.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LibertyDream/python_tutorial/master?filepath=advance%2F1.enum_closure.ipynb) | [HTML](https://libertydream.github.io/python_tutorial/advance/1.enum_closure.html) |
+| [2.函数式编程和装饰器](https://nbviewer.jupyter.org/github/LibertyDream/python_tutorial/blob/master/advance/2.functional_programming.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LibertyDream/python_tutorial/master?filepath=advance%2F2.functional_programming.ipynb) | [HTML](https://libertydream.github.io/python_tutorial/advance/2.functional_programming.html) |
 
 [![](https://i.creativecommons.org/l/by-nc-sa/2.5/cn/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/2.5/cn)本仓库所有文章采用[知识共享署名-非商业性使用-相同方式共享 2.5 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-sa/2.5/cn/)
