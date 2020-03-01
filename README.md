@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/license-CC__BY--NC--SA__2.5__CN-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/2.5/cn/)  ![process](https://img.shields.io/badge/process-building-yellow)
 
-本仓库是基于个人 Python3 学习经历总结的学习路径。包括 Python 基础、高级编程和实战技巧几个部分。
+Python3 打怪升级笔记。包括 Python 基础、高级编程和实战技巧几个部分。
 
 | Python 基础                                                  | Jupyter NoteBook                                             | HTML                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -27,5 +27,6 @@
 | [9. 套接字编程](https://nbviewer.jupyter.org/github/LibertyDream/python_tutorial/blob/master/advance/9.python_socket.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LibertyDream/python_tutorial/master?filepath=advance%2F9.python_socket.ipynb) | [HTML](https://libertydream.github.io/python_tutorial/advance/9.python_socket.html) |
 | [10.多线程与多进程](https://nbviewer.jupyter.org/github/LibertyDream/python_tutorial/blob/master/advance/10.multi_thread.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LibertyDream/python_tutorial/master?filepath=advance%2F10.multi_thread.ipynb) | [HTML](https://libertydream.github.io/python_tutorial/advance/10.multi_thread.html) |
 | [11.异步 I/O 与协程](https://nbviewer.jupyter.org/github/LibertyDream/python_tutorial/blob/master/advance/11.asynchronize_coroutine.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LibertyDream/python_tutorial/master?filepath=advance%2F11.asynchronize_coroutine.ipynb) | [HTML](https://libertydream.github.io/python_tutorial/advance/11.asynchronize_coroutine.html) |
+| [12.asyncio 编程](https://nbviewer.jupyter.org/github/LibertyDream/python_tutorial/blob/master/advance/12.asyncio_programming.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LibertyDream/python_tutorial/master?filepath=advance%2F12.asyncio_programming.ipynb) | [HTML](https://libertydream.github.io/python_tutorial/advance/12.asyncio_programming.html) |
 
 [![](https://i.creativecommons.org/l/by-nc-sa/2.5/cn/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/2.5/cn)本仓库所有文章采用[知识共享署名-非商业性使用-相同方式共享 2.5 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-sa/2.5/cn/)
