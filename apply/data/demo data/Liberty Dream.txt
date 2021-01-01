@@ -1,0 +1,8 @@
+欢迎来到 Python 文件导入教程。我们会关注以下文件类型的处理：
+1. Text
+2. CSV
+3. Excel
+4. SQL
+5. Web 数据
+6. Image
+阅读愉快！
