@@ -1,18 +1,5 @@
 {
-    "firstName":{
-		"0":"Jane",
-		"1":"Teddy"
-	},
-    "lastName": {
-		"0":"Doe",
-		"1":"Dunken"
-	},
-    "hobbies": {
-		"0":["running", "sky diving", "singing"],
-		"1":["reading", "singing", "swimming"]
-	},
-    "age":{
-		"0":35,
-		"1":40
-	}
+	"firstName":{"0": "Jane", "1": "Teddy"},
+	"lastName":{"0": "Doe", "1": "Dunken"},
+	"age":{"0": "35", "1": "40"}
 }
