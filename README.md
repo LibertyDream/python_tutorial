@@ -31,6 +31,6 @@ Python3 打怪升级笔记。包括 Python 基础、高级编程和实战技巧�
 
 | Python 实战                                                  | Jupyter NoteBook                                             | HTML                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [1. 文件读取]((https://nbviewer.jupyter.org/github/LibertyDream/python_tutorial/blob/master/apply/1.files_read.ipynb)) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LibertyDream/python_tutorial/master?filepath=apply%2F1.files_read.ipynb) | [HTML](https://libertydream.github.io/python_tutorial/apply/1.files_read.html) |
+| [1. 文件读取](https://nbviewer.jupyter.org/github/LibertyDream/python_tutorial/blob/master/apply/1.files_read.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LibertyDream/python_tutorial/master?filepath=apply%2F1.files_read.ipynb) | [HTML](https://libertydream.github.io/python_tutorial/apply/1.files_read.html) |
 
 [![](https://i.creativecommons.org/l/by-nc-sa/2.5/cn/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/2.5/cn)本仓库所有文章采用[知识共享署名-非商业性使用-相同方式共享 2.5 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-sa/2.5/cn/)
